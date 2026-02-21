@@ -307,8 +307,7 @@ input[type="checkbox"]:checked+.search-form__pseudo-checkbox::after {
   outline-offset: 1px;
 }
 
-.content__card-link {
-  display: block;
+.content__card-link_current {
   background-color: #1b1919;
 }
 
